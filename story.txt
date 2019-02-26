@@ -1,1 +1,3 @@
 Sunny is a CS400 student who really loves CS but gets sick a lot. She has to go to the doctor’s three times a week to get her problems solved.Last year she thought she’d lose hope to college because the transition between high school and college is tough, and she almost did not make it. But this semester, she found her CS400 professor nice and patient and her Xteam teammates friendly and helpful.
+
+One day Sunny was doing a programming assignment. She thinks her code is right but she cannot pass the final test on GradeScope. She edited some codes but it turns out that more tests failed. Now she regrets not having the previous code saved in some place. She turned to TA for help and TA teached her about Git.
