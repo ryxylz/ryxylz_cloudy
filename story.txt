@@ -6,3 +6,5 @@ One day Sunny was doing a programming assignment. She thinks her code is right b
 Sunny asked the TA more questions about the assignment, and the TA helped, but Sunny still couldn't get those few last points on GradeScope. She consulted her notes to try to find answers. After tracing through her code a few times, she realized that there were some syntax errors in her code that she could easily fix. Even with these fixes, Sunny could not get full points on GradeScope.
 
 Nevertheless, Sunny did not give up. She remembered that programming is an incremental process and problems can occur almost anywhere, but hard work and time invested will always prevail. Thankfully, she started the program early so she still had time to make everything work.
+
+Sunny restored her hope and confidence toward programming. She handed the codes in and got full score on this assignment. The progress of problem searching and solving was definitely worthy of her time, she thought, because it had taught her never to give up at these little barriers and to keep moving on.
